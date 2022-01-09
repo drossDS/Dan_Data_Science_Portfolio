@@ -1,4 +1,6 @@
-# Project 1 - Classification Project (Kaggle):  "Titanic - Machine Learning from Disaster"
+# Dan_Data_Science_Portfolio
+
+## Project 1 - Classification Project (Kaggle):  "Titanic - Machine Learning from Disaster"
 Data for passengers on the Titanic is provided and a machine learning classification model is written to predict the survival of a subset of the passengers
 - Performed exploratory data analysis (EDA) on passenger data to find trends and inform feature engineering
 - Employed hypothesis testing validate the statistical significance of engineered features
