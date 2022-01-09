@@ -1,6 +1,3 @@
-# Dan_Data_Science_Portfolio
-Dan's Data Science Project Portfolio
-
 # Project 1 - Classification Project (Kaggle):  "Titanic - Machine Learning from Disaster"
 Data for passengers on the Titanic is provided and a machine learning classification model is written to predict the survival of a subset of the passengers
 - Performed exploratory data analysis (EDA) on passenger data to find trends and inform feature engineering
