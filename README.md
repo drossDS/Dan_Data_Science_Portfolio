@@ -1,6 +1,6 @@
 # Dan_Data_Science_Portfolio
 
-## [Project 1 - Classification Project (Kaggle):  "Titanic - Machine Learning from Disaster"](https://github.com/drossDS/hello_world)
+## Project 1 - Classification Project (Kaggle):  "Titanic - Machine Learning from Disaster"
 Data for passengers on the Titanic is provided and a machine learning classification model is written to predict the survival of a subset of the passengers
 - Performed exploratory data analysis (EDA) on passenger data to find trends and inform feature engineering
 - Employed hypothesis testing validate the statistical significance of engineered features
@@ -9,3 +9,5 @@ Data for passengers on the Titanic is provided and a machine learning classifica
 - Created an aggregate classification model which averaged the survival probabilities determined by the previous models to create a new survival prediction for each passenger
 
 ![](/Images/Swarmplot.png)
+
+## [Sweet Project to Print "Hello World"](https://github.com/drossDS/hello_world)
