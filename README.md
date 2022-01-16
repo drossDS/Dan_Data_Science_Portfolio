@@ -10,4 +10,9 @@ Data for passengers on the Titanic is provided and a machine learning classifica
 
 ![](/Images/Swarmplot.png)
 
+<details>
+<summary>Wanna see more??</summary>
+<br>
+Check out this image!
 ## [Sweet Project to Print "Hello World"](https://github.com/drossDS/hello_world)
+</details>
