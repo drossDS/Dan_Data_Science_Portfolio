@@ -14,5 +14,6 @@ Data for passengers on the Titanic is provided and a machine learning classifica
 <summary>Wanna see more??</summary>
 <br>
 Check out this image!
+<br>
 ## [Sweet Project to Print "Hello World"](https://github.com/drossDS/hello_world)
 </details>
