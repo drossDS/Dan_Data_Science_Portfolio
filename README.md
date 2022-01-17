@@ -11,4 +11,5 @@ Data for passengers on the Titanic is provided and a machine learning classifica
 - Used GridSearchCV to optimize models to increase model accuracy
 - ShuffleSplit was employed to generate training and validation sets reduce overfitting by simulating the effects of unseen data.  (Below, the "Test" column is actually the average performance for each model against the generated validation sets)<br><br>
 ![](/Images/Model_Comparison_Table.png)<br>
-- The chosen random forest model predicted the test data with a 77.3% accuracy.  Additional work and next steps are proposed to improve this closer to the 82% prediction accuracy achieved on the validation data sets
+- The chosen random forest model predicted the test data with a 77.3% accuracy
+- Next steps and mdoel refinements are proposed in the code to improve this closer to the 82% prediction accuracy achieved on the validation data sets
