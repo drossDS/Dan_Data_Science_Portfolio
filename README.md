@@ -9,5 +9,3 @@ Data for passengers on the Titanic is provided and a machine learning classifica
 - Created an aggregate classification model which averaged the survival probabilities determined by the previous models to create a new survival prediction for each passenger
 
 ![](/Images/Swarmplot.png)
-
-<img width=”250" height=”400" src=”https://raw.githubusercontent.com/asifsha/react-native-api-integration/master/demo/demoartist.gif" />
