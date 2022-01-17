@@ -12,6 +12,7 @@ A classification model was developed to determine the outcome (survival or death
 - Used sklearn GridSearchCV to optimize models to increase model accuracy
 - Sklearn ShuffleSplit was employed to generate training and validation sets reduce overfitting by simulating the effects of unseen data.  (Below, the "Test" column is actually the average performance for each model against the generated validation sets)<br><br>
 ![](/Images/Model_Comparison_Table.png)<br>
+
 ### Key Outcomes:
 - A random forest classifier model was chosen with a predicted accuracy of about 82% based on validation data
 - The chosen random forest model predicted the test data with a 77.3% accuracy
