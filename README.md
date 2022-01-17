@@ -13,11 +13,11 @@ Data for passengers on the Titanic is provided and a machine learning classifica
 <details>
 <summary>Wanna see more??</summary>
 
-<br>  
+
 Check out this image!
 <br>
 ![](/Images/Swarmplot.png)
-<br>
+
 
 </details>
 
