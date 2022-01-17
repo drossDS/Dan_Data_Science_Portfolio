@@ -9,6 +9,6 @@ Data for passengers on the Titanic is provided and a machine learning classifica
 - Employed hypothesis testing validate the statistical significance of engineered features
 - Examined the performance of Logistic Regression, K-Neighbors, Decision Tree, and Random Forest Classifier models
 - Used GridSearchCV to optimize models to increase model accuracy
-- ShuffleSplit was employed to generate training and validation sets reduce overfitting by simulating the effects of unseen data
+- ShuffleSplit was employed to generate training and validation sets reduce overfitting by simulating the effects of unseen data.  (Below, the "Test" column is actually the average performance against the generated validation sets)
 
 ![](/Images/Model_Comparison_Table.png)
