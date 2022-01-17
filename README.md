@@ -4,7 +4,8 @@
 A classification model was developed to determine the outcome (survival or death) of passengers on the Titanic based on personal information such as the passenger gender, age, class, and other categorical and numerical variables.  Training and test data sets were provided by Kaggle.  The training data set was provided with passenger outcomes to train and fit various classification/machine learning algorithms.  The test data was provided without the passenger outcomes, and the developed model was used to predict their fates.<br>
 ### Major Accomplishments:
 - Performed exploratory data analysis (EDA) on passenger data to find trends and inform feature engineering<br><br>
-![](/Images/Correlation_Matrix_small.png)<br><br>
+![](/Images/Classification_Titanic/Correlation_Matrix_small.png)<br><br>
+
 - Employed hypothesis testing validate the statistical significance of engineered features<br><br>
 ![](/Images/Age_Distro_Swarm_small.png)
 ![](/Images/Survival_Ratio_vs_Cumulative_Age_Group.png)<br><br>
