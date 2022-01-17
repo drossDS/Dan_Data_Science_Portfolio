@@ -8,4 +8,4 @@ Data for passengers on the Titanic is provided and a machine learning classifica
 - Used GridSearchCV in tandem with ShuffleSplit to optimize models and compare their performance against 30 derived training and validation data sets to increase accuracy while reducing over-fitting
 - Created an aggregate classification model which averaged the survival probabilities determined by the previous models to create a new survival prediction for each passenger
 
-![](/Images/Swarmplot.png)  ![](/Images/Swarmplot.png)  
+![](/Images/Swarmplot.png =200x200)  ![](/Images/Swarmplot.png)  
