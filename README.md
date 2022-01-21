@@ -18,8 +18,7 @@ h1{
 -->
 
 # Titanic Classification Model 
-***Kaggle Competition:  "Titanic - Machine Learning from Disaster"*** - link to python code [here](https://github.com/drossDS/Project-Classification-Titanic_Machine_Learning)
-
+***Kaggle Competition:  "Titanic - Machine Learning from Disaster"*** <!-- - link to python code [here](https://github.com/drossDS/Project-Classification-Titanic_Machine_Learning) -->
 
 <!--# [Classification Project (Kaggle):  "Titanic - Machine Learning from Disaster"](https://github.com/drossDS/Project-Classification-Titanic_Machine_Learning)-->
 A classification model was developed to determine the outcome (survival or death) of passengers on the Titanic based on personal information such as the passenger gender, age, class, and other categorical and numerical variables.  Data sets were provided by Kaggle and included a training data set with passenger outcomes model fitting and a test data set on which to run the model and submit the results for the competition.<br>
