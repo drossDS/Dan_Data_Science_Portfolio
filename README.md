@@ -58,7 +58,8 @@ A regression model was created to forecast future carbon emissions using time se
 - Model performance was primarily characterized by calculating root mean squared error (RMSE) values for each combination of model, transformation technique, and fit data timespan<br>
 
 ### Key Outcomes:
-- Carbon emissions levels were forecasted for the 12 months following the provided data with a predicted mean absolute percent error was 3%<br>
+- A 3% mean absolute percent error for the finl model was calculated against the validation data set<br>
 ![](Images/Regression_Emissions/Carbon_Emissions_Validation.png)<br>
+- Carbon emissions levels were forecasted for the 12 months following the provided data
 ![](Images/Regression_Emissions/Carbon_Emissions_Forecast.png)
 
