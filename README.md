@@ -62,5 +62,5 @@ A regression model was created to forecast future carbon emissions using time se
 
 ![](Images/Regression_Emissions/Carbon_Emissions_Validation.png)<br><br>
 
-![](Images/Regression_Emissions/Carbon Emissions Forecast.png)
+![](Images/Regression_Emissions/Carbon_Emissions_Forecast.png)
 
