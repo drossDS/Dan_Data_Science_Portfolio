@@ -59,8 +59,6 @@ A regression model was created to forecast future carbon emissions using time se
 
 ### Key Outcomes:
 - Carbon emissions levels were forecasted for the 12 months following the provided data with a predicted mean absolute percent error was 3%<br>
-
 ![](Images/Regression_Emissions/Carbon_Emissions_Validation.png)<br>
-
 ![](Images/Regression_Emissions/Carbon_Emissions_Forecast.png)
 
