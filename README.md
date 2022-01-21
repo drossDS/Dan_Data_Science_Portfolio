@@ -11,13 +11,14 @@
 - ***Coming Soon!***
   - SQL Project
   - Self-Directed Clustering Project
-
+<!--
 h1{
     margin-top: 0px;
 }
+-->
 
 # Titanic Classification Model 
-## Kaggle Project:  "Titanic - Machine Learning from Disaster"
+Kaggle Project:  "Titanic - Machine Learning from Disaster"
 Link to code [here](https://github.com/drossDS/Project-Classification-Titanic_Machine_Learning)
 
 
