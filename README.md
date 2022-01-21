@@ -70,3 +70,6 @@ A regression model was created to forecast future carbon emissions using time se
 - Carbon emissions levels were forecasted for the 12 months following the provided data
 ![](Images/Regression_Emissions/Carbon_Emissions_Forecast.png)
 
+---
+
+![](Images/Unsupervised_Cars/PCA_Gradients_Cars.png)
