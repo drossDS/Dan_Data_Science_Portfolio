@@ -18,8 +18,7 @@ h1{
 -->
 
 # Titanic Classification Model 
-Kaggle Project:  "Titanic - Machine Learning from Disaster"
-Link to code [here](https://github.com/drossDS/Project-Classification-Titanic_Machine_Learning)
+***Kaggle Project:  "Titanic - Machine Learning from Disaster"*** - link to python code [here](https://github.com/drossDS/Project-Classification-Titanic_Machine_Learning)
 
 
 <!--# [Classification Project (Kaggle):  "Titanic - Machine Learning from Disaster"](https://github.com/drossDS/Project-Classification-Titanic_Machine_Learning)-->
@@ -41,3 +40,21 @@ A classification model was developed to determine the outcome (survival or death
 - A random forest classifier model was chosen with a predicted accuracy of about 82% based on validation data
 - The chosen random forest model predicted the test data with a 77.3% accuracy
   - Next steps and model refinements are proposed in the code to improve this closer to the 82% prediction accuracy achieved on the validation data sets
+
+# Carbon Emissons Timeseries Forecasting
+***Capstone Project - MIT Applied Data Science Program***
+
+A regression model was created to forecast future carbon emissions using time series data for electric energy production emissions from natural gas in the US from 1973 to 2016.
+### Major Accomplishments:
+- A model was created to forecast future emissions for a period of 1 year beyond the provided data
+- Processing training data for model fitting:
+  - Different data transformation techniques were evaluated to optimize model performance
+  - The timespan over which the model would be fit was also examined to reduce prediction error
+- Model Development:
+	- Basic AR, MA, ARMA, and ARIMA models were optimized and evaluated
+	- A Seasonal ARIMA (SARIMA) model was tuned using the Pmdarima auto_arima optimizer function
+- Model performance was primarily characterized by calculating root mean squared error (RMSE) values for each combination of model, transformation technique, and fit data timespan
+### Key Outcomes:
+- Carbon emissions levels were forecasted for the 12months following the provided data with a predicted mean absolute percent error was 3%
+
+
