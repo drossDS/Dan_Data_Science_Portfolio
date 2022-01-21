@@ -1,5 +1,23 @@
 <!-- keep this here -->
 
+# Contents:
+- Titanic Classification Model (Self Directed)
+- Carbon Emissons Timeseries Forecasting (MIT ADSP Capstone Project)
+- Unsupervised Learning (Clustering) Project (MIT ADSP)
+- Supervised Learning (Regression Analsysis) Project (MIT ADSP)
+- Linear Regression / Machine Learning Project (MIT ADSP)
+- Deep Learning (Neural Network) Project (MIT ADSP)
+- Recommendation System Project (MIT ADSP)
+- ***Coming Soon!***
+  - SQL Project
+  - Self-Directed Clustering Project
+
+
+# Titanic Classification Model 
+## Kaggle Project:  "Titanic - Machine Learning from Disaster"
+Link to code [here](https://github.com/drossDS/Project-Classification-Titanic_Machine_Learning)
+
+
 # [Classification Project (Kaggle):  "Titanic - Machine Learning from Disaster"](https://github.com/drossDS/Project-Classification-Titanic_Machine_Learning)
 A classification model was developed to determine the outcome (survival or death) of passengers on the Titanic based on personal information such as the passenger gender, age, class, and other categorical and numerical variables.  Training and test data sets were provided by Kaggle.  The training data set was provided with passenger outcomes to train and fit various classification/machine learning algorithms.  The test data was provided without the passenger outcomes, and the developed model was used to predict their fates.<br>
 ### Major Accomplishments:
