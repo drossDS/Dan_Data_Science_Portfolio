@@ -43,8 +43,10 @@ A classification model was developed to determine the outcome (survival or death
 
 # Carbon Emissons Timeseries Forecasting
 ***Capstone Project - MIT Applied Data Science Program***
-
 A regression model was created to forecast future carbon emissions using time series data for electric energy production emissions from natural gas in the US from 1973 to 2016.
+
+![](Images/Regression_Emissions/Provided_NNEIEUS_Data.png)
+
 ### Major Accomplishments:
 - A model was created to forecast future emissions for a period of 1 year beyond the provided data
 - Processing training data for model fitting:
@@ -55,6 +57,7 @@ A regression model was created to forecast future carbon emissions using time se
 	- A Seasonal ARIMA (SARIMA) model was tuned using the Pmdarima auto_arima optimizer function
 - Model performance was primarily characterized by calculating root mean squared error (RMSE) values for each combination of model, transformation technique, and fit data timespan
 ### Key Outcomes:
-- Carbon emissions levels were forecasted for the 12months following the provided data with a predicted mean absolute percent error was 3%
-
+- Carbon emissions levels were forecasted for the 12 months following the provided data with a predicted mean absolute percent error was 3%
+![](Images/Regression_Emissions/Carbon_Emissions_Validation.png)
+![](Images/Regression_Emissions/Carbon Emissions Forecast.png)
 
