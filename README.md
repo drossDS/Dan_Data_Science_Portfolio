@@ -17,6 +17,10 @@ h1{
 }
 -->
 
+<!--                                      *********************************** 1 - TITANITC ************************************************* -->
+
+---
+
 # Titanic Classification Model 
 ***Kaggle Competition:  "Titanic - Machine Learning from Disaster"*** <!-- - link to python code [here](https://github.com/drossDS/Project-Classification-Titanic_Machine_Learning) -->
 
@@ -39,6 +43,10 @@ A classification model was developed to determine the outcome (survival or death
 - A random forest classifier model was chosen with a predicted accuracy of about 82% based on validation data
 - The chosen random forest model predicted the test data with a 77.3% accuracy
   - Next steps and model refinements are proposed in the code to improve this closer to the 82% prediction accuracy achieved on the validation data sets
+
+<!--                                *********************************** 2 - CARBON EMISSIONS ************************************************* -->
+
+---
 
 # Carbon Emissons Timeseries Forecasting
 ***Capstone Project - MIT Applied Data Science Program***
