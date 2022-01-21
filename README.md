@@ -43,11 +43,6 @@ A classification model was developed to determine the outcome (survival or death
 # Carbon Emissons Timeseries Forecasting
 ***Capstone Project - MIT Applied Data Science Program***
 
-<br>
-
-<ins>testing</ins>
-<br>
-
 A regression model was created to forecast future carbon emissions using time series data for electric energy production emissions from natural gas in the US from 1973 to 2016.
 
 ![](Images/Regression_Emissions/Provided_NNEIEUS_Data.png)
