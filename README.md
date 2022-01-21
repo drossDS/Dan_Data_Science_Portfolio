@@ -1,6 +1,6 @@
 <!-- keep this here -->
 
-# Contents:
+# Project Portfolio Contents:
 - Titanic Classification Model (Self Directed)
 - Carbon Emissons Timeseries Forecasting (MIT ADSP Capstone Project)
 - Unsupervised Learning (Clustering) Project (MIT ADSP)
