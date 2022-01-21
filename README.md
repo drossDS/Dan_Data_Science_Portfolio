@@ -12,13 +12,24 @@
   - SQL Project
   - Self-Directed Clustering Project
 
+ <font size="1"> This is my text number1</font> 
+
+ <font size="2"> This is my text number 2 </font>
+ 
+ <font size="3"> This is my text number 3</font> 
+ 
+ <font size="4"> This is my text number 4</font> 
+ 
+ <font size="5"> This is my text number 5</font> 
+ 
+ <font size="6"> This is my text number 6</font>
 
 # Titanic Classification Model 
 ## Kaggle Project:  "Titanic - Machine Learning from Disaster"
 Link to code [here](https://github.com/drossDS/Project-Classification-Titanic_Machine_Learning)
 
 
-# [Classification Project (Kaggle):  "Titanic - Machine Learning from Disaster"](https://github.com/drossDS/Project-Classification-Titanic_Machine_Learning)
+<!--# [Classification Project (Kaggle):  "Titanic - Machine Learning from Disaster"](https://github.com/drossDS/Project-Classification-Titanic_Machine_Learning)-->
 A classification model was developed to determine the outcome (survival or death) of passengers on the Titanic based on personal information such as the passenger gender, age, class, and other categorical and numerical variables.  Training and test data sets were provided by Kaggle.  The training data set was provided with passenger outcomes to train and fit various classification/machine learning algorithms.  The test data was provided without the passenger outcomes, and the developed model was used to predict their fates.<br>
 ### Major Accomplishments:
 - Performed exploratory data analysis (EDA) on passenger data to find trends and inform feature engineering<br><br>
