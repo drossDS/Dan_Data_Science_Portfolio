@@ -49,16 +49,16 @@ A regression model was created to forecast future carbon emissions using time se
 ![](Images/Regression_Emissions/Provided_NNEIEUS_Data.png)
 ### Major Accomplishments:
 - A model was created to forecast future emissions for a period of 1 year beyond the provided data
-- Processing training data for model fitting:
+- Training Data Processing:
   - Different data transformation techniques were evaluated to optimize model performance
-  - The timespan over which the model would be fit was also examined to reduce prediction error
+  - Various training data timespans over which the model would be fit were also examined to reduce prediction error
 - Model Development:
-	- Basic AR, MA, ARMA, and ARIMA models were optimized and evaluated
-	- A Seasonal ARIMA (SARIMA) model was tuned using the Pmdarima auto_arima optimizer function
+  - Basic AR, MA, ARMA, and ARIMA models were optimized and evaluated
+  - A Seasonal ARIMA (SARIMA) model was tuned using the Pmdarima auto_arima optimizer function
 - Model performance was primarily characterized by calculating root mean squared error (RMSE) values for each combination of model, transformation technique, and fit data timespan<br>
 
 ### Key Outcomes:
-- A 3% mean absolute percent error for the finl model was calculated against the validation data set<br>
+- A 3% mean absolute percent error (MAPE) for the final model was calculated against the validation data set<br>
 ![](Images/Regression_Emissions/Carbon_Emissions_Validation.png)<br>
 - Carbon emissions levels were forecasted for the 12 months following the provided data
 ![](Images/Regression_Emissions/Carbon_Emissions_Forecast.png)
