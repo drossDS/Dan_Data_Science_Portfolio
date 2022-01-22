@@ -76,13 +76,14 @@ A regression model was created to forecast future carbon emissions using time se
 # Autombile Clustering - Unsupervised Learning
 A clustering model was built to group and identify similarities among automobile models sold between 1970 and 1982.  The provided vehicle data included a variety of characteristics including gas mileage, engine cylinders, horsepower and other vehicle specifications.<br>
 
-### Major Accomplishment:
+### Major Accomplishments:
 - Dimensionality reduction techniques such as Principal Component Analysis (PCA) and t-Distributed Stochastic Neighbor Embedding (t-SNE) were employed to group vehicles with similar characteristics
 - Clusters identified were examined against the original variables to uncover common traits and correlations<br>
 
 ### Key Outcomes:
-- Clustering techniques identified that vehicles were largely grouped by engine cylinder count, displacement, horsepower, and vehicle weight which are all highly correlated<br>
+- Clustering techniques identified that vehicles were largely grouped by engine cylinder count, displacement, horsepower, and vehicle weight which are all highly correlated<br><br>
   ![](Images/Unsupervised_Cars/PCA_coefficients.png)
   
-- Analysis also highlighted the effects of the gas crisis as a decrease characteristics associated with engine power coincided with an increase in gas mileage<br>
-  ![](Images/Unsupervised_Cars/PCA_Gradients_Cars.png)
+- Analysis also highlighted the effects of the gas crisis as a decrease characteristics associated with engine power coincided with an increase in gas mileage<br><br>
+  ![](Images/Unsupervised_Cars/PCA_Gradients_Cars.png)<br>
+  ![](Images/Unsupervised_Cars/t-SNE_plots.png)
