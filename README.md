@@ -79,7 +79,7 @@ A clustering model was built to group and identify similarities among automobile
 
 ### Major Accomplishments:
 - Dimensionality reduction techniques such as Principal Component Analysis (PCA) and t-Distributed Stochastic Neighbor Embedding (t-SNE) were employed to group vehicles with similar characteristics
-- Clusters identified were examined against the original variables to uncover common traits and correlations<br><br>
+- Clusters identified with t-SNE were examined against the original variables to uncover common traits and correlations<br><br>
   ![](Images/Unsupervised_Cars/Box_plots.png)
 
 ### Key Outcomes:
