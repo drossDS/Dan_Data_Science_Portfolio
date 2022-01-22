@@ -77,6 +77,7 @@ A regression model was created to forecast future carbon emissions using time se
 
 # Autombile Clustering - Unsupervised Learning
 ***Weekly Project - MIT Applied Data Science Program***
+
 A clustering model was built to group and identify similarities among automobile models sold between 1970 and 1982.  The provided vehicle data included a variety of characteristics including gas mileage, engine cylinders, horsepower and other vehicle specifications.<br>
 
 ### Major Accomplishments:
