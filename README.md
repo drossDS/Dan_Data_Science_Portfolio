@@ -66,8 +66,9 @@ A regression model was created to forecast future carbon emissions using time se
 
 ### Key Outcomes:
 - A 3% mean absolute percent error (MAPE) for the final model was calculated against the validation data set<br>
+
 ![](Images/Regression_Emissions/Carbon_Emissions_Validation.png)<br>
-- Carbon emissions levels were forecasted for the 12 months following the provided data
+- Carbon emissions levels were forecasted for the 12 months following the provided data<br>
 ![](Images/Regression_Emissions/Carbon_Emissions_Forecast.png)
 
 ---
