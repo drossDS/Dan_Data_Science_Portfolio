@@ -4,7 +4,7 @@
 - Titanic Classification Model (Self Directed)
 - Carbon Emissons Timeseries Forecasting (MIT ADSP Capstone Project)
 - Unsupervised Learning (Clustering) Project (MIT ADSP)
-- Linear Regression Boston Home Prices Machine Learning Project (MIT ADSP)
+- Boston Home Prices Linear Regression Project (MIT ADSP)
 - Deep Learning (Artificial and Convolutional Neural Networks) Project (MIT ADSP)
 - Recommendation System Project (MIT ADSP)
 - ***Coming Soon!***
