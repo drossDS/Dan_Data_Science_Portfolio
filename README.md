@@ -83,11 +83,11 @@ A clustering model was built to group and identify similarities among automobile
   ![](Images/Unsupervised_Cars/Box_plots.png)
 
 ### Key Outcomes:
-- Clustering techniques identified that vehicles were largely grouped by engine cylinder count, displacement, horsepower, and vehicle weight which are all highly correlated<br><br>
+- Clustering techniques identified that vehicles were largely grouped by engine cylinder count, displacement, horsepower, and vehicle weight which are all highly correlated<br>
 
   ![](Images/Unsupervised_Cars/PCA_coefficients.png)<br>
 <br>
-- Analysis also highlighted the effects of the gas crisis as a decrease characteristics associated with engine power coincided with an increase in gas mileage<br><br>
+- Analysis also highlighted the effects of the gas crisis as a decrease characteristics associated with engine power coincided with an increase in gas mileage<br>
 
   ![](Images/Unsupervised_Cars/PCA_Gradients_Cars.png)<br>
   ![](Images/Unsupervised_Cars/t-SNE_plots.png)
