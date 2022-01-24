@@ -93,3 +93,29 @@ A clustering model was built to group and identify similarities among automobile
 
   ![](Images/Unsupervised_Cars/PCA_Gradients_Cars.png)<br>
   ![](Images/Unsupervised_Cars/t-SNE_plots.png)
+
+---
+<!--                                *********************************** 4 - Boston Houses - Linear Regression ************************************************* -->
+
+# Boston Home Prices - Linear Regression Project
+***Weekly Project - MIT Applied Data Science Program***
+
+A linear regression model was created to predict median home values in Boston-area suburbs and towns based on a variety of factors including the geographic and socioeconomic characteristics of the home locations.  Housing data were provided and analysis was performed to determine the most important factors affecting values.  An equation was developed from the coefficients produced by the model capable of estimating home prices.
+ 
+### Major Accomplishments:
+- Performed exploratory data analysis of the provided data
+- Examined variable correlations and removed multicollinearity using Variance Inflation Factor (VIF) criteria
+
+  ![](Images/linear_regression_Boston_Homes/VIF_plots.png)
+  
+- Performed tests on residuals to verify assumptions of linear regression
+
+  ![](Images/linear_regression_Boston_Homes/Residual_Plots.png)
+
+### Key Outcomes:
+- This model achieved an R^2 value of .729 when cross validation techniques were applied
+- Against the test dataset, the model had a Mean Absolute Percentage Error (MAPE) or 5.26, very close to the 4.98% MAPE against the training dataset
+- A linear regression equation was created from the coefficients produced by the models
+
+
+
