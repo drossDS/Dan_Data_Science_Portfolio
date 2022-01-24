@@ -106,7 +106,7 @@ A linear regression model was created to predict median home values in Boston-ar
 - Performed exploratory data analysis of the provided data
 - Examined variable correlations and removed multicollinearity using Variance Inflation Factor (VIF) criteria
 
-  <!--![](Images/linear_regression_Boston_Homes/VIF_plots.png)-->
+  ![](Images/linear_regression_Boston_Homes/VIF_plots.png)
   
 - Performed tests on residuals to verify assumptions of linear regression
 
