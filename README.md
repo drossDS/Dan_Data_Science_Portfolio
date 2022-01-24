@@ -1,7 +1,7 @@
 <!-- keep this here -->
 
 # Project Portfolio Contents:
-- Titanic Classification Model (Self Directed)
+- Titanic Classification Model (Self-Directed)
 - Carbon Emissons Timeseries Forecasting (MIT ADSP Capstone Project)
 - Unsupervised Learning (Clustering) Project (MIT ADSP)
 - Boston Home Prices Linear Regression Project (MIT ADSP)
@@ -21,7 +21,7 @@ h1{
 ---
 
 # Titanic Classification Model 
-***Kaggle Competition:  "Titanic - Machine Learning from Disaster"*** <!-- - link to python code [here](https://github.com/drossDS/Project-Classification-Titanic_Machine_Learning) -->
+***Self-Directed Project, Kaggle Competition:  "Titanic - Machine Learning from Disaster"*** <!-- - link to python code [here](https://github.com/drossDS/Project-Classification-Titanic_Machine_Learning) -->
 
 <!--# [Classification Project (Kaggle):  "Titanic - Machine Learning from Disaster"](https://github.com/drossDS/Project-Classification-Titanic_Machine_Learning)-->
 A classification model was developed to determine the outcome (survival or death) of passengers on the Titanic based on personal information such as the passenger gender, age, class, and other categorical and numerical variables.  Data sets were provided by Kaggle and included a training data set with passenger outcomes model fitting and a test data set on which to run the model and submit the results for the competition.<br>
@@ -48,7 +48,7 @@ A classification model was developed to determine the outcome (survival or death
 ---
 
 # Carbon Emissons Timeseries Forecasting
-***Capstone Project - MIT Applied Data Science Program***
+***Self-Directed Capstone Project for the MIT Applied Data Science Program***
 
 A timeseries regression model was created to forecast future carbon emissions using timeseries data for electric energy production emissions from natural gas in the US from 1973 to 2016.
 
