@@ -113,7 +113,7 @@ A linear regression model was created to predict median home values in Boston-ar
   ![](Images/linear_regression_Boston_Homes/Residual_Plots.png)
 
 ### Key Outcomes:
-- This model achieved an R^2 value of .729 when cross validation techniques were applied
+- This model achieved an R<sup>2</sup> value of .729 when cross validation techniques were applied
 - Against the test dataset, the model had a Mean Absolute Percentage Error (MAPE) or 5.26, very close to the 4.98% MAPE against the training dataset
 - A linear regression equation was created from the coefficients produced by the models
 
