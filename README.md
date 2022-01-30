@@ -20,7 +20,10 @@ h1{
 
 ---
 
-# Titanic Classification Model 
+<div align="center">
+    <center><h1>Titanic Classification Model</h1></center>
+</div>
+
 ***Self-Directed Project, Kaggle Competition:  "Titanic - Machine Learning from Disaster"***
 
 A classification model was developed to determine the outcome (survival or death) of passengers on the Titanic based on personal information such as the passenger gender, age, class, and other categorical and numerical variables.  Datasets were provided by Kaggle and included a training dataset with passenger outcomes model fitting and a test dataset on which to run the model and submit the results for the competition.<br>
