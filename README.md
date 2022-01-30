@@ -124,7 +124,7 @@ A linear regression model was created to predict median home values in Boston-ar
 # Image Recognition with Neural Networks - Street View Housing Number Dataset
 ***Weekly Project - MIT Applied Data Science Program***
 
-Artificial Neural Network (ANN) and Convolutional Neural Network (CNN) models were implemented to recognize numbers in a subset of greyscale images in the Street View Housing Number (SVHN) dataset which contains 60,000 images of numbers zero through nine.  Each neural network model was modified to improve prediction accuracy, and confusion matrices were created to assess the performance of the improved models.  A sample of the images is shown below.  The original SVHN source and citation are provided at the end of this project seciton.
+Artificial Neural Network (ANN) and Convolutional Neural Network (CNN) models were implemented to recognize numbers in a sample of 60,000 greyscale images derived from the Street View Housing Number (SVHN) dataset which contains images of numbers zero through nine.  Each neural network model was modified to improve prediction accuracy, and confusion matrices were created to assess the performance of the improved models.  A sample of the images is shown below.  The original SVHN source and citation are provided at the end of this project seciton.
 
 ![](Images/Neural_Networks_SVHN/SVHN_Samples.png)
 
