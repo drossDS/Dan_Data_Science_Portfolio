@@ -1,12 +1,10 @@
 <!-- keep this here -->
 
-<p align="center">
-    
-    # Project Portfolio Contents:
+<div alig="center">
+    <center><h1>My title</h1></center>
+</div>
 
-</p>
-    
-    
+# Project Portfolio Contents:    
 - Titanic Classification Model (Self-Directed)
 - Carbon Emissions Timeseries Forecasting (MIT ADSP Capstone Project)
 - Automobile Clustering - Unsupervised Learning Project (MIT ADSP)
