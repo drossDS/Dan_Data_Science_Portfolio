@@ -3,13 +3,10 @@
 # Project Portfolio Contents:
 - Titanic Classification Model (Self-Directed)
 - Carbon Emissons Timeseries Forecasting (MIT ADSP Capstone Project)
-- Unsupervised Learning (Clustering) Project (MIT ADSP)
-- Boston Home Prices Linear Regression Project (MIT ADSP)
-- Deep Learning (Artificial and Convolutional Neural Networks) Project (MIT ADSP)
-- Recommendation System Project (MIT ADSP)
-- ***Coming Soon!***
-  - SQL Project
-  - Self-Directed Clustering Project
+- Automobile Clustering - Unsupervised Learning Project (MIT ADSP)
+- Boston Home Prices - Linear Regression Project (MIT ADSP)
+- Image Recognition Street View Housing Numbers - Neural Networks Project
+
 <!--
 h1{
     margin-top: 0px;
@@ -121,7 +118,7 @@ A linear regression model was created to predict median home values in Boston-ar
 
 ---
 
-# Image Recognition with Neural Networks - Street View Housing Number Dataset
+# Image Recognition Street View Housing Numbers - Neural Networks Project
 ***Weekly Project - MIT Applied Data Science Program***
 
 Artificial Neural Network (ANN) and Convolutional Neural Network (CNN) models were implemented to recognize numbers in a sample of 60,000 greyscale images derived from the Street View Housing Number (SVHN) dataset which contains images of numbers zero through nine.  Each neural network model was modified to improve prediction accuracy, and confusion matrices were created to assess the performance of the improved models.  A sample of the images is shown below.  The original SVHN source and citation are provided at the end of this project seciton.
@@ -138,7 +135,7 @@ Artificial Neural Network (ANN) and Convolutional Neural Network (CNN) models we
 
   ![](Images/Neural_Networks_SVHN/Confusion_Matrix_SVHN.png)
 
-***Original Source and Citation for Images Shown:***
+***Original Source and Citation for SVHN Images Shown:***
 
 Original Source: 
 http://ufldl.stanford.edu/housenumbers
