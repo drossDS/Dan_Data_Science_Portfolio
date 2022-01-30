@@ -138,3 +138,10 @@ Artificial Neural Network (ANN) and Convolutional Neural Network (CNN) models we
 
   ![](Images/Neural_Networks_SVHN/Confusion_Matrix_SVHN.png)
 
+***Source and Citation for Images Shown***
+
+Source: 
+
+[](http://ufldl.stanford.edu/housenumbers)
+
+Citation:  Yuval Netzer, Tao Wang, Adam Coates, Alessandro Bissacco, Bo Wu, Andrew Y. Ng Reading Digits in Natural Images with Unsupervised Feature Learning NIPS Workshop on Deep Learning and Unsupervised Feature Learning 2011.
