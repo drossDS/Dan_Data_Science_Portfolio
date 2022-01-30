@@ -2,10 +2,10 @@
 
 # Project Portfolio Contents:
 - Titanic Classification Model (Self-Directed)
-- Carbon Emissons Timeseries Forecasting (MIT ADSP Capstone Project)
+- Carbon Emissions Timeseries Forecasting (MIT ADSP Capstone Project)
 - Automobile Clustering - Unsupervised Learning Project (MIT ADSP)
 - Boston Home Prices - Linear Regression Project (MIT ADSP)
-- Image Recognition Street View Housing Numbers - Neural Networks Project
+- Image Recognition Street View Housing Numbers - Neural Networks Project (MIT ADSP)
 
 <!--
 h1{
@@ -13,7 +13,7 @@ h1{
 }
 -->
 
-<!--                                      *********************************** 1 - TITANITC ************************************************* -->
+<!--                                      *********************************** 1 - TITANIC ************************************************* -->
 
 ---
 
@@ -44,7 +44,7 @@ A classification model was developed to determine the outcome (survival or death
 
 ---
 
-# Carbon Emissons Timeseries Forecasting
+# Carbon Emissions Timeseries Forecasting
 ***Self-Directed Capstone Project for the MIT Applied Data Science Program***
 
 A timeseries regression model was created to forecast future carbon emissions using timeseries data for electric energy production emissions from natural gas in the US from 1973 to 2016.
@@ -86,7 +86,7 @@ A clustering model was built to group and identify similarities among automobile
 
   ![](Images/Unsupervised_Cars/PCA_coefficients.png)<br>
 <br>
-- Analysis also highlighted the effects of the gas crisis as a decrease characteristics associated with engine power coincided with an increase in gas mileage<br>
+- Analysis also highlighted the effects of the gas crisis as a degradation in characteristics associated with engine power coincided with an increase in gas mileage<br>
 
   ![](Images/Unsupervised_Cars/PCA_Gradients_Cars.png)<br>
   ![](Images/Unsupervised_Cars/t-SNE_plots.png)
@@ -121,7 +121,7 @@ A linear regression model was created to predict median home values in Boston-ar
 # Image Recognition Street View Housing Numbers - Neural Networks Project
 ***Weekly Project - MIT Applied Data Science Program***
 
-Artificial Neural Network (ANN) and Convolutional Neural Network (CNN) models were implemented to recognize numbers in a sample of 60,000 greyscale images derived from the Street View Housing Number (SVHN) dataset which contains images of numbers zero through nine.  Each neural network model was modified to improve prediction accuracy, and confusion matrices were created to assess the performance of the improved models.  A sample of the images is shown below.  The original SVHN source and citation are provided at the end of this project seciton.
+Artificial Neural Network (ANN) and Convolutional Neural Network (CNN) models were implemented to recognize numbers in a sample of 60,000 greyscale images derived from the Street View Housing Number (SVHN) dataset which contains images of numbers zero through nine.  Each neural network model was modified to improve prediction accuracy, and confusion matrices were created to assess the performance of the improved models.  A sample of the images is shown below.  The original SVHN source and citation are provided at the end of this project section.
 
 ![](Images/Neural_Networks_SVHN/SVHN_Samples.png)
 
