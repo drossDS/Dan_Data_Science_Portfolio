@@ -25,9 +25,9 @@ A classification model was developed to determine the outcome (survival or death
 - Performed exploratory data analysis (EDA) on passenger data to find trends and inform feature engineering<br><br>
 
 <p align="center">
-
-![](/Images/Classification_Titanic/Correlation_Matrix_small.png)<br><br>
-
+    
+    ![](/Images/Classification_Titanic/Correlation_Matrix_small.png)<br><br>
+    
 </p>
 
 - Employed hypothesis testing validate the statistical significance of engineered features<br><br>
