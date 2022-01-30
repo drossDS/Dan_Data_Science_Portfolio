@@ -24,7 +24,7 @@ h1{
 ***Self-Directed Project, Kaggle Competition:  "Titanic - Machine Learning from Disaster"*** <!-- - link to python code [here](https://github.com/drossDS/Project-Classification-Titanic_Machine_Learning) -->
 
 <!--# [Classification Project (Kaggle):  "Titanic - Machine Learning from Disaster"](https://github.com/drossDS/Project-Classification-Titanic_Machine_Learning)-->
-A classification model was developed to determine the outcome (survival or death) of passengers on the Titanic based on personal information such as the passenger gender, age, class, and other categorical and numerical variables.  Data sets were provided by Kaggle and included a training data set with passenger outcomes model fitting and a test data set on which to run the model and submit the results for the competition.<br>
+A classification model was developed to determine the outcome (survival or death) of passengers on the Titanic based on personal information such as the passenger gender, age, class, and other categorical and numerical variables.  Datasets were provided by Kaggle and included a training dataset with passenger outcomes model fitting and a test dataset on which to run the model and submit the results for the competition.<br>
 ### Major Accomplishments:
 - Performed exploratory data analysis (EDA) on passenger data to find trends and inform feature engineering<br><br>
 ![](/Images/Classification_Titanic/Correlation_Matrix_small.png)<br><br>
@@ -41,7 +41,7 @@ A classification model was developed to determine the outcome (survival or death
 ### Key Outcomes:
 - A random forest classifier model was chosen with a predicted accuracy of about 82% based on validation data
 - The chosen random forest model predicted the test data with a 77.3% accuracy
-  - Next steps and model refinements are proposed in the code to improve this closer to the 82% prediction accuracy achieved on the validation data sets
+  - Next steps and model refinements are proposed in the code to improve this closer to the 82% prediction accuracy achieved on the validation datasets
 
 <!--                                *********************************** 2 - CARBON EMISSIONS ************************************************* -->
 
@@ -64,7 +64,7 @@ A timeseries regression model was created to forecast future carbon emissions us
 - Model performance was primarily characterized by calculating root mean squared error (RMSE) values for each combination of model, transformation technique, and fit data timespan<br>
 
 ### Key Outcomes:
-- A 3% mean absolute percent error (MAPE) for the final model was calculated against the validation data set<br>
+- A 3% mean absolute percent error (MAPE) for the final model was calculated against the validation dataset<br>
 
   ![](Images/Regression_Emissions/Carbon_Emissions_Validation.png)<br>
 - Carbon emissions levels were forecasted for the 12 months following the provided data<br>
@@ -117,5 +117,24 @@ A linear regression model was created to predict median home values in Boston-ar
 - Against the test dataset, the model had a Mean Absolute Percentage Error (MAPE) of 5.26%, very close to the 4.98% MAPE against the training dataset
 - A linear regression equation was created from the coefficients produced by the models
 
+<!--                                      *********************************** 5 - SVHN Neural Nets ************************************************* -->
 
+---
+
+# Image Recognition with Neural Networks - Street View Housing Number Dataset
+***Weekly Project - MIT Applied Data Science Program***
+
+Artificial Neural Network (ANN) and Convolutional Neural Network (CNN) models were implemented to recognize numbers in the Street View Housing Number (SVHN) image dataset which contains 60,000 images of numbers zero through nine.  Each neural network model was modified to improve prediction accuracy, and confusion matrices were created to assess the performance of the improved models.
+
+![](Images/Neural_Networks_SVHN/SVHN_Samples.png)
+
+### Major Accomplishments:
+- ANN and CNN models were created using TensorFlow and Keras
+- A simple ANN model was initially created using dense layers with ReLU activation.  An improved model incorporated higher node counts, additional dense layers, dropout and batch normalization layers, and a higher number of epochs
+- A initial CNN model was created with convolutional, pooling, and dense layers using Leaky ReLU activation.  An improved model incorporated batch normalization, dropout, and additional convolution layers, while also increasing the number of epochs
+
+### Key Outcomes:
+- Artificial and Convolutional Neural Network models were created which achieved final accuracies of 75% and 90% respectively on the test data.  The confusion matrix for the CNN model is shown below
+
+  ![](Images/Neural_Networks_SVHN/Confusion_Matrix_SVHN.png)
 
