@@ -13,7 +13,7 @@ Hello!  I'm a mechanical engineer with over 11 years of experience aspiring to b
 - Carbon Emissions Timeseries Forecasting (MIT ADSP Capstone Project)
 - Automobile Clustering - Unsupervised Learning Project (MIT ADSP)
 - Boston Home Prices - Linear Regression Project (MIT ADSP)
-- INumber Image Recognition - Neural Networks Project (MIT ADSP)
+- Image Recognition - Neural Networks Project (MIT ADSP)
 
 <!--
 h1{
@@ -147,7 +147,7 @@ A linear regression model was created to predict median home values in Boston-ar
 ---
 
 <div align="center">
-    <center><h1>Number Image Recognition - Neural Networks Project</h1></center>
+    <center><h1>Image Recognition - Neural Networks Project</h1></center>
 </div>
 
 <div align="center">
