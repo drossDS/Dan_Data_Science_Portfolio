@@ -138,7 +138,7 @@ Artificial Neural Network (ANN) and Convolutional Neural Network (CNN) models we
 
   ![](Images/Neural_Networks_SVHN/Confusion_Matrix_SVHN.png)
 
-***Original Source and Citation for Images Shown***
+***Original Source and Citation for Images Shown:***
 
 Original Source: 
 http://ufldl.stanford.edu/housenumbers
