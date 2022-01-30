@@ -13,7 +13,7 @@ Hello!  I'm a mechanical engineer with over 11 years of experience aspiring to b
 - Carbon Emissions Timeseries Forecasting (MIT ADSP Capstone Project)
 - Automobile Clustering - Unsupervised Learning Project (MIT ADSP)
 - Boston Home Prices - Linear Regression Project (MIT ADSP)
-- Image Recognition Street View Housing Numbers - Neural Networks Project (MIT ADSP)
+- INumber Image Recognition - Neural Networks Project (MIT ADSP)
 
 <!--
 h1{
@@ -57,8 +57,13 @@ A classification model was developed to determine the outcome (survival or death
 
 ---
 
-# Carbon Emissions Timeseries Forecasting
-***Self-Directed Capstone Project for the MIT Applied Data Science Program***
+<div align="center">
+    <center><h1>Carbon Emissions Timeseries Forecasting</h1></center>
+</div>
+
+<div align="center">
+    <center><b><i>Self-Directed Capstone Project for the MIT Applied Data Science Program</i></b></center>
+</div>
 
 A timeseries regression model was created to forecast future carbon emissions using timeseries data for electric energy production emissions from natural gas in the US from 1973 to 2016.
 
@@ -84,8 +89,13 @@ A timeseries regression model was created to forecast future carbon emissions us
 ---
 <!--                                *********************************** 3 - Clustering Cars ************************************************* -->
 
-# Automobile Clustering - Unsupervised Learning
-***Weekly Project - MIT Applied Data Science Program***
+<div align="center">
+    <center><h1>Automobile Clustering - Unsupervised Learning</h1></center>
+</div>
+
+<div align="center">
+    <center><b><i>Weekly Project - MIT Applied Data Science Program</i></b></center>
+</div>
 
 A clustering model was built to group and identify similarities among automobile models sold between 1970 and 1982.  The provided vehicle data included a variety of characteristics including gas mileage, engine cylinders, horsepower and other vehicle specifications.<br>
 
@@ -107,8 +117,13 @@ A clustering model was built to group and identify similarities among automobile
 ---
 <!--                                *********************************** 4 - Boston Houses - Linear Regression ************************************************* -->
 
-# Boston Home Prices - Linear Regression Project
-***Weekly Project - MIT Applied Data Science Program***
+<div align="center">
+    <center><h1>Boston Home Prices - Linear Regression Project</h1></center>
+</div>
+
+<div align="center">
+    <center><b><i>Weekly Project - MIT Applied Data Science Program</i></b></center>
+</div>
 
 A linear regression model was created to predict median home values in Boston-area suburbs and towns based on a variety of factors including the geographic and socioeconomic characteristics of the home locations.  Housing data were provided and analysis was performed to determine the most important factors affecting values.  An equation was developed from the coefficients produced by the model capable of estimating home prices.
  
@@ -131,8 +146,13 @@ A linear regression model was created to predict median home values in Boston-ar
 
 ---
 
-# Image Recognition Street View Housing Numbers - Neural Networks Project
-***Weekly Project - MIT Applied Data Science Program***
+<div align="center">
+    <center><h1>Number Image Recognition - Neural Networks Project</h1></center>
+</div>
+
+<div align="center">
+    <center><b><i>Weekly Project - MIT Applied Data Science Program</i></b></center>
+</div>
 
 Artificial Neural Network (ANN) and Convolutional Neural Network (CNN) models were implemented to recognize numbers in a sample of 60,000 greyscale images derived from the Street View Housing Number (SVHN) dataset which contains images of numbers zero through nine.  Each neural network model was modified to improve prediction accuracy, and confusion matrices were created to assess the performance of the improved models.  A sample of the images is shown below.  The original SVHN source and citation are provided at the end of this project section.
 
