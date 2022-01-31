@@ -172,7 +172,7 @@ Artificial Neural Network (ANN) and Convolutional Neural Network (CNN) models we
 ***Original Source and Citation for SVHN Images Shown:***
 
 Original Source: 
-http://ufldl.stanford.edu/housenumbers
+[](http://ufldl.stanford.edu/housenumbers)
 
 Citation:  Yuval Netzer, Tao Wang, Adam Coates, Alessandro Bissacco, Bo Wu, Andrew Y. Ng Reading Digits in Natural Images with Unsupervised Feature Learning NIPS Workshop on Deep Learning and Unsupervised Feature Learning 2011.
 
@@ -184,6 +184,7 @@ Citation:  Yuval Netzer, Tao Wang, Adam Coates, Alessandro Bissacco, Bo Wu, Andr
 <div align="center">
     <center><h1>Contact Information</h1></center>
 </div>
+
 - Phone: 978-417-1001
 - Email:  drossetti12@gmail.com
 - LinkedIn:  [](https://www.linkedin.com/in/daniel-r-10882139/)
