@@ -3,7 +3,7 @@
 <div align="center">
     <center><h1>About Me</h1></center>
 </div>
-Hello!  I'm a mechanical engineer with over 11 years of experience aspiring to become a data scientist.  Just last year, I completed the MIT Applied Data Science Program (MIT ADSP) and have since  decided to pursue this field for my next career move.  Below are the projects from my course and the first of what I hope will be many more self-directed projects in areas of specific interest.  I hope you enjoy!
+Hello!  I'm a mechanical engineer with over 11 years of experience aspiring to become a data scientist.  Just last year, I completed the MIT Applied Data Science Program (MIT ADSP) and have since  decided to pursue this field for my next career move.  Below are the projects from my course and the first of what I hope will be many more self-directed projects in areas of specific interest.  More to come soon!
 
 <div align="center">
     <center><h1>Project Portfolio Contents</h1></center>
@@ -14,6 +14,7 @@ Hello!  I'm a mechanical engineer with over 11 years of experience aspiring to b
 - Automobile Clustering - Unsupervised Learning Project (MIT ADSP)
 - Boston Home Prices - Linear Regression Project (MIT ADSP)
 - Image Recognition - Neural Networks Project (MIT ADSP)
+- Contact Information
 
 <!--
 h1{
@@ -174,3 +175,16 @@ Original Source:
 http://ufldl.stanford.edu/housenumbers
 
 Citation:  Yuval Netzer, Tao Wang, Adam Coates, Alessandro Bissacco, Bo Wu, Andrew Y. Ng Reading Digits in Natural Images with Unsupervised Feature Learning NIPS Workshop on Deep Learning and Unsupervised Feature Learning 2011.
+
+
+<!--                                      *********************************** Contact Info ************************************************* -->
+
+---
+
+<div align="center">
+    <center><h1>Contact Information</h1></center>
+</div>
+- Phone: 978-417-1001
+- Email:  drossetti12@gmail.com
+- LinkedIn:  [](https://www.linkedin.com/in/daniel-r-10882139/)
+- MIT ADSP Certificate:  [](https://www.credential.net/0655323a-4a50-49d6-9dfc-a81e5e4b7ca8#gs.o5fack)
