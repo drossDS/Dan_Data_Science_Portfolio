@@ -40,7 +40,7 @@ A classification model was developed to determine the outcome (survival or death
 
   ![](/Images/Classification_Titanic/Correlation_Matrix_small.png)<br><br>
 
-- Employed hypothesis testing validate the statistical significance of engineered features<br><br>
+- Employed hypothesis testing to validate the statistical significance of engineered features<br><br>
   ![](/Images/Classification_Titanic/Age_Distro_Swarm_small.png)
   ![](/Images/Classification_Titanic/Survival_Ratio_vs_Cumulative_Age_Group.png)<br><br>
 - Examined the performance of Logistic Regression, K-Neighbors, Decision Tree, and Random Forest Classifier models
@@ -126,10 +126,10 @@ A clustering model was built to group and identify similarities among automobile
     <center><b><i>Weekly Project - MIT Applied Data Science Program</i></b></center>
 </div>
 
-A linear regression model was created to predict median home values in Boston-area suburbs and towns based on a variety of factors including the geographic and socioeconomic characteristics of the home locations.  Housing data were provided and analysis was performed to determine the most important factors affecting values.  An equation was developed from the coefficients produced by the model capable of estimating home prices.
+A linear regression model was created to predict median home values in Boston-area suburbs and towns based on a variety of varialbes including the geographic and socioeconomic characteristics of the home locations.  Housing data were provided and analysis was performed to determine the most important factors affecting values.  An equation was developed from the coefficients produced by the model capable of estimating home prices.
  
 ### Major Accomplishments:
-- Performed exploratory data analysis of the provided data
+- Performed exploratory data analysis to gain basic statistical insights for each variable
 - Examined variable correlations and removed multicollinearity using Variance Inflation Factor (VIF) criteria
 
   ![](Images/linear_regression_Boston_Homes/VIF_plots2.png)
@@ -162,7 +162,7 @@ Artificial Neural Network (ANN) and Convolutional Neural Network (CNN) models we
 ### Major Accomplishments:
 - ANN and CNN models were created using TensorFlow and Keras
 - A simple ANN model was initially created using dense layers with ReLU activation.  An improved model incorporated higher node counts, additional dense layers, dropout and batch normalization layers, and a higher number of epochs
-- A initial CNN model was created with convolutional, pooling, and dense layers using Leaky ReLU activation.  An improved model incorporated batch normalization, dropout, and additional convolution layers, while also increasing the number of epochs
+- An initial CNN model was created with convolutional, pooling, and dense layers using Leaky ReLU activation.  An improved model incorporated batch normalization, dropout, and additional convolution layers, while also increasing the number of epochs
 
 ### Key Outcomes:
 - Artificial and Convolutional Neural Network models were created which achieved final accuracies of 75% and 90% respectively on the test data.  The confusion matrix for the CNN model is shown below:
