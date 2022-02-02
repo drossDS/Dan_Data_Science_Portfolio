@@ -73,7 +73,7 @@ A timeseries regression model was created to forecast future carbon emissions us
 - A model was created to forecast future emissions for a period of 1 year beyond the provided data
 - Training Data Processing:
   - Different data transformation techniques were evaluated to optimize model performance
-  - Various training data timespans over which the model would be fit were also examined to reduce prediction error
+  - Various training data timespans were examined to reduce prediction error and determine how much of the provided training data should be used to train the model
 - Model Development:
   - Basic AR, MA, ARMA, and ARIMA models were optimized and evaluated
   - A Seasonal ARIMA (SARIMA) model was tuned using the Pmdarima auto_arima optimizer function
