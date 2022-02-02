@@ -3,7 +3,7 @@
 <div align="center">
     <center><h1>About Me</h1></center>
 </div>
-Hello!  I'm a mechanical engineer with over 11 years of experience aspiring to become a data scientist.  Just last year, I completed the MIT Applied Data Science Program (MIT ADSP) and have since  decided to pursue this field for my next career move.  Below are the projects from my course and the first of what I hope will be many more self-directed projects in areas of specific interest.  More to come soon!
+Hello!  I'm a mechanical engineer with over 11 years of experience aspiring to become a data scientist.  Just last year, I completed the MIT Applied Data Science Program (MIT ADSP) and have since decided to pursue this field for my next career move.  Below are the projects from my course and the first of what I hope will be many more self-directed projects in areas of specific interest.  More to come soon!
 
 <div align="center">
     <center><h1>Project Portfolio Contents</h1></center>
@@ -126,7 +126,7 @@ A clustering model was built to group and identify similarities among automobile
     <center><b><i>Weekly Project - MIT Applied Data Science Program</i></b></center>
 </div>
 
-A linear regression model was created to predict median home values in Boston-area suburbs and towns based on a variety of varialbes including the geographic and socioeconomic characteristics of the home locations.  Housing data were provided and analysis was performed to determine the most important factors affecting values.  An equation was developed from the coefficients produced by the model capable of estimating home prices.
+A linear regression model was created to predict median home values in Boston-area suburbs and towns based on a variety of variables including the geographic and socioeconomic characteristics of the home locations.  Housing data were provided and analysis was performed to determine the most important factors affecting values.  An equation was developed from the coefficients produced by the model capable of estimating home prices.
  
 ### Major Accomplishments:
 - Performed exploratory data analysis to gain basic statistical insights for each variable
