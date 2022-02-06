@@ -35,13 +35,45 @@ h1{
     margin-top: 0px;
 }
 -->
+<!--                                *********************************** 1 - CARBON EMISSIONS ************************************************* -->
+---
 
-<!--                                      *********************************** 1 - TITANIC ************************************************* -->
+<div align="center">
+    <center><h1>Predicting Carbon Emissions</h1></center>
+</div>
+
+<div align="center">
+    <center><b><i>Capstone Project - Timeseries Forecasting</i></b></center>
+</div>
+
+A timeseries regression model was created to forecast future carbon emissions using timeseries data for electric energy production emissions from natural gas in the US from 1973 to 2016.
+
+![](Images/Regression_Emissions/Provided_NNEIEUS_Data.png)
+### Major Accomplishments:
+- A model was created to forecast future emissions for a period of 1 year beyond the provided data
+- Training Data Processing:
+  - Different data transformation techniques were evaluated to optimize model performance
+  - Various training data timespans were examined to reduce prediction error and determine how much of the provided training data should be used to train the model
+- Model Development:
+  - Basic AR, MA, ARMA, and ARIMA models were optimized and evaluated
+  - A Seasonal ARIMA (SARIMA) model was tuned using the Pmdarima auto_arima optimizer function
+- Model performance was primarily characterized by calculating root mean squared error (RMSE) values for each combination of model, transformation technique, and fit data timespan<br>
+
+### Key Outcomes:
+- A 3% mean absolute percent error (MAPE) for the final model was calculated against the validation dataset<br>
+
+  ![](Images/Regression_Emissions/Carbon_Emissions_Validation.png)<br>
+- Carbon emissions levels were forecasted for the 12 months following the provided data<br>
+
+  ![](Images/Regression_Emissions/Carbon_Emissions_Forecast.png)
+
+
+<!--                                      *********************************** 2 - TITANIC ************************************************* -->
 
 ---
 
 <div align="center">
-    <center><h1>Titanic Classification Model</h1></center>
+    <center><h1>Titanic Survival Model</h1></center>
 </div>
 
 <div align="center">
@@ -68,97 +100,7 @@ A classification model was developed to determine the outcome (survival or death
 - The chosen random forest model predicted the test data with a 77.3% accuracy
   - Next steps and model refinements are proposed in the code to improve this closer to the 82% prediction accuracy achieved on the validation datasets
 
-<!--                                *********************************** 2 - CARBON EMISSIONS ************************************************* -->
-
----
-
-<div align="center">
-    <center><h1>Carbon Emissions Timeseries Forecasting</h1></center>
-</div>
-
-<div align="center">
-    <center><b><i>Self-Directed Capstone Project for the MIT Applied Data Science Program</i></b></center>
-</div>
-
-A timeseries regression model was created to forecast future carbon emissions using timeseries data for electric energy production emissions from natural gas in the US from 1973 to 2016.
-
-![](Images/Regression_Emissions/Provided_NNEIEUS_Data.png)
-### Major Accomplishments:
-- A model was created to forecast future emissions for a period of 1 year beyond the provided data
-- Training Data Processing:
-  - Different data transformation techniques were evaluated to optimize model performance
-  - Various training data timespans were examined to reduce prediction error and determine how much of the provided training data should be used to train the model
-- Model Development:
-  - Basic AR, MA, ARMA, and ARIMA models were optimized and evaluated
-  - A Seasonal ARIMA (SARIMA) model was tuned using the Pmdarima auto_arima optimizer function
-- Model performance was primarily characterized by calculating root mean squared error (RMSE) values for each combination of model, transformation technique, and fit data timespan<br>
-
-### Key Outcomes:
-- A 3% mean absolute percent error (MAPE) for the final model was calculated against the validation dataset<br>
-
-  ![](Images/Regression_Emissions/Carbon_Emissions_Validation.png)<br>
-- Carbon emissions levels were forecasted for the 12 months following the provided data<br>
-
-  ![](Images/Regression_Emissions/Carbon_Emissions_Forecast.png)
-
----
-<!--                                *********************************** 3 - Clustering Cars ************************************************* -->
-
-<div align="center">
-    <center><h1>Automobile Clustering - Unsupervised Learning</h1></center>
-</div>
-
-<div align="center">
-    <center><b><i>Weekly Project - MIT Applied Data Science Program</i></b></center>
-</div>
-
-A clustering model was built to group and identify similarities among automobile models sold between 1970 and 1982.  The provided vehicle data included a variety of characteristics including gas mileage, engine cylinders, horsepower and other vehicle specifications.<br>
-
-### Major Accomplishments:
-- Dimensionality reduction techniques such as Principal Component Analysis (PCA) and t-Distributed Stochastic Neighbor Embedding (t-SNE) were employed to group vehicles with similar characteristics
-- Clusters identified with t-SNE were examined against the original variables to uncover common traits and correlations<br><br>
-  ![](Images/Unsupervised_Cars/Box_plots.png)
-
-### Key Outcomes:
-- Clustering techniques identified that vehicles were largely grouped by engine cylinder count, displacement, horsepower, and vehicle weight which are all highly correlated<br>
-
-  ![](Images/Unsupervised_Cars/PCA_coefficients.png)<br>
-<br>
-- Analysis also highlighted the effects of the gas crisis as a degradation in characteristics associated with engine power coincided with an increase in gas mileage<br>
-
-  ![](Images/Unsupervised_Cars/PCA_Gradients_Cars.png)<br>
-  ![](Images/Unsupervised_Cars/t-SNE_plots.png)
-
----
-<!--                                *********************************** 4 - Boston Houses - Linear Regression ************************************************* -->
-
-<div align="center">
-    <center><h1>Boston Home Prices - Linear Regression Project</h1></center>
-</div>
-
-<div align="center">
-    <center><b><i>Weekly Project - MIT Applied Data Science Program</i></b></center>
-</div>
-
-A linear regression model was created to predict median home values in Boston-area suburbs and towns based on a variety of variables including the geographic and socioeconomic characteristics of the home locations.  Housing data were provided and analysis was performed to determine the most important factors affecting values.  An equation was developed from the coefficients produced by the model capable of estimating home prices.
- 
-### Major Accomplishments:
-- Performed exploratory data analysis to gain basic statistical insights for each variable
-- Examined variable correlations and removed multicollinearity using Variance Inflation Factor (VIF) criteria
-
-  ![](Images/linear_regression_Boston_Homes/VIF_plots2.png)
-  
-- Performed tests on residuals to verify assumptions of linear regression
-
-  ![](Images/linear_regression_Boston_Homes/Residual_Plots.png)
-
-### Key Outcomes:
-- This model achieved an R<sup>2</sup> value of .729 when cross validation techniques were applied
-- Against the test dataset, the model had a Mean Absolute Percentage Error (MAPE) of 5.26%, very close to the 4.98% MAPE against the training dataset
-- A linear regression equation was created from the coefficients produced by the models
-
-<!--                                      *********************************** 5 - SVHN Neural Nets ************************************************* -->
-
+<!--                                      *********************************** 3 - SVHN Neural Nets ************************************************* -->
 ---
 
 <div align="center">
@@ -189,6 +131,64 @@ Original Source:
 [http://ufldl.stanford.edu/housenumbers](http://ufldl.stanford.edu/housenumbers)
 
 Citation:  Yuval Netzer, Tao Wang, Adam Coates, Alessandro Bissacco, Bo Wu, Andrew Y. Ng Reading Digits in Natural Images with Unsupervised Feature Learning NIPS Workshop on Deep Learning and Unsupervised Feature Learning 2011.
+
+<!--                                *********************************** 4 - Boston Houses - Linear Regression ************************************************* -->
+---
+
+<div align="center">
+    <center><h1>Boston Home Prices - Linear Regression Project</h1></center>
+</div>
+
+<div align="center">
+    <center><b><i>Weekly Project - MIT Applied Data Science Program</i></b></center>
+</div>
+
+A linear regression model was created to predict median home values in Boston-area suburbs and towns based on a variety of variables including the geographic and socioeconomic characteristics of the home locations.  Housing data were provided and analysis was performed to determine the most important factors affecting values.  An equation was developed from the coefficients produced by the model capable of estimating home prices.
+ 
+### Major Accomplishments:
+- Performed exploratory data analysis to gain basic statistical insights for each variable
+- Examined variable correlations and removed multicollinearity using Variance Inflation Factor (VIF) criteria
+
+  ![](Images/linear_regression_Boston_Homes/VIF_plots2.png)
+  
+- Performed tests on residuals to verify assumptions of linear regression
+
+  ![](Images/linear_regression_Boston_Homes/Residual_Plots.png)
+
+### Key Outcomes:
+- This model achieved an R<sup>2</sup> value of .729 when cross validation techniques were applied
+- Against the test dataset, the model had a Mean Absolute Percentage Error (MAPE) of 5.26%, very close to the 4.98% MAPE against the training dataset
+- A linear regression equation was created from the coefficients produced by the models
+
+
+
+<!--                                *********************************** 5 - Clustering Cars ************************************************* -->
+---
+
+<div align="center">
+    <center><h1>Automobile Clustering - Unsupervised Learning</h1></center>
+</div>
+
+<div align="center">
+    <center><b><i>Weekly Project - MIT Applied Data Science Program</i></b></center>
+</div>
+
+A clustering model was built to group and identify similarities among automobile models sold between 1970 and 1982.  The provided vehicle data included a variety of characteristics including gas mileage, engine cylinders, horsepower and other vehicle specifications.<br>
+
+### Major Accomplishments:
+- Dimensionality reduction techniques such as Principal Component Analysis (PCA) and t-Distributed Stochastic Neighbor Embedding (t-SNE) were employed to group vehicles with similar characteristics
+- Clusters identified with t-SNE were examined against the original variables to uncover common traits and correlations<br><br>
+  ![](Images/Unsupervised_Cars/Box_plots.png)
+
+### Key Outcomes:
+- Clustering techniques identified that vehicles were largely grouped by engine cylinder count, displacement, horsepower, and vehicle weight which are all highly correlated<br>
+
+  ![](Images/Unsupervised_Cars/PCA_coefficients.png)<br>
+<br>
+- Analysis also highlighted the effects of the gas crisis as a degradation in characteristics associated with engine power coincided with an increase in gas mileage<br>
+
+  ![](Images/Unsupervised_Cars/PCA_Gradients_Cars.png)<br>
+  ![](Images/Unsupervised_Cars/t-SNE_plots.png)
 
 
 <!--                                      *********************************** Contact Info ************************************************* -->
