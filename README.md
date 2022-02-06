@@ -23,11 +23,11 @@ Hello!  I'm a mechanical engineer with over 11 years of experience aspiring to b
     <center><h1>Project Portfolio Contents</h1></center>
 </div>
   
-- Titanic Classification Model (Self-Directed)
-- Carbon Emissions Timeseries Forecasting (MIT ADSP Capstone Project)
-- Automobile Clustering - Unsupervised Learning Project (MIT ADSP)
-- Boston Home Prices - Linear Regression Project (MIT ADSP)
-- Image Recognition - Neural Networks Project (MIT ADSP)
+- Forecasting Carbon Emissions - Capstone Project
+- Titanic Survival Model
+- House Number Image Recognition
+- Predicting Boston Home Prices
+- Car Clustering
 - Contact Information
 
 <!--
