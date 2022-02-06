@@ -202,3 +202,15 @@ Citation:  Yuval Netzer, Tao Wang, Adam Coates, Alessandro Bissacco, Bo Wu, Andr
 - LinkedIn: [https://www.linkedin.com/in/daniel-r-10882139/](https://www.linkedin.com/in/daniel-r-10882139/)
 - MIT ADSP Certificate:  [https://www.credential.net/0655323a-4a50-49d6-9dfc-a81e5e4b7ca8#gs.o5fack](https://www.credential.net/0655323a-4a50-49d6-9dfc-a81e5e4b7ca8#gs.o5fack)
 - MIT ADSP ePortfolio: [https://eportfolio.greatlearning.in/daniel-rossetti](https://eportfolio.greatlearning.in/daniel-rossetti)
+
+
+---
+<div align="center">
+    <center><h3>Contact Information</h3></center>
+</div>
+
+<div align="center">
+    <center> <a href = "mailto: drossetti12@gmail.com">drossetti12@gmail.com</a> | <a href = "https://www.linkedin.com/in/daniel-r-10882139/">LinkedIn</a> | <a href = "https://www.credential.net/0655323a-4a50-49d6-9dfc-a81e5e4b7ca8#gs.o5fack">MIT ADSP Certificate</a> | <a href = "https://eportfolio.greatlearning.in/daniel-rossetti">MIT ADSP ePortfolio</a></center>
+</div>
+
+---
