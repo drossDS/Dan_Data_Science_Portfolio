@@ -104,11 +104,11 @@ A classification model was developed to determine the outcome (survival or death
 ---
 
 <div align="center">
-    <center><h1>Image Recognition - Neural Networks Project</h1></center>
+    <center><h1>Image Recognition</h1></center>
 </div>
 
 <div align="center">
-    <center><b><i>Weekly Project - MIT Applied Data Science Program</i></b></center>
+    <center><b><i>Neural Networks Project</i></b></center>
 </div>
 
 Artificial Neural Network (ANN) and Convolutional Neural Network (CNN) models were implemented to recognize numbers in a sample of 60,000 greyscale images derived from the Street View Housing Number (SVHN) dataset which contains images of numbers zero through nine.  Each neural network model was modified to improve prediction accuracy, and confusion matrices were created to assess the performance of the improved models.  A sample of the images is shown below.  The original SVHN source and citation are provided at the end of this project section.
@@ -125,22 +125,21 @@ Artificial Neural Network (ANN) and Convolutional Neural Network (CNN) models we
 
   ![](Images/Neural_Networks_SVHN/Confusion_Matrix_SVHN.png)
 
+<sub><sup>
 ***Original Source and Citation for SVHN Images Shown:***
-
 Original Source:
 [http://ufldl.stanford.edu/housenumbers](http://ufldl.stanford.edu/housenumbers)
-
-Citation:  Yuval Netzer, Tao Wang, Adam Coates, Alessandro Bissacco, Bo Wu, Andrew Y. Ng Reading Digits in Natural Images with Unsupervised Feature Learning NIPS Workshop on Deep Learning and Unsupervised Feature Learning 2011.
+Citation:  Yuval Netzer, Tao Wang, Adam Coates, Alessandro Bissacco, Bo Wu, Andrew Y. Ng Reading Digits in Natural Images with Unsupervised Feature Learning NIPS Workshop on Deep Learning and Unsupervised Feature Learning 2011.</sup></sub>
 
 <!--                                *********************************** 4 - Boston Houses - Linear Regression ************************************************* -->
 ---
 
 <div align="center">
-    <center><h1>Boston Home Prices - Linear Regression Project</h1></center>
+    <center><h1>Boston Home Prices</h1></center>
 </div>
 
 <div align="center">
-    <center><b><i>Weekly Project - MIT Applied Data Science Program</i></b></center>
+    <center><b><i>Linear Regression Anaysis</i></b></center>
 </div>
 
 A linear regression model was created to predict median home values in Boston-area suburbs and towns based on a variety of variables including the geographic and socioeconomic characteristics of the home locations.  Housing data were provided and analysis was performed to determine the most important factors affecting values.  An equation was developed from the coefficients produced by the model capable of estimating home prices.
@@ -166,11 +165,11 @@ A linear regression model was created to predict median home values in Boston-ar
 ---
 
 <div align="center">
-    <center><h1>Automobile Clustering - Unsupervised Learning</h1></center>
+    <center><h1>Car Clustering</h1></center>
 </div>
 
 <div align="center">
-    <center><b><i>Weekly Project - MIT Applied Data Science Program</i></b></center>
+    <center><b><i>Unsupervised Learning</i></b></center>
 </div>
 
 A clustering model was built to group and identify similarities among automobile models sold between 1970 and 1982.  The provided vehicle data included a variety of characteristics including gas mileage, engine cylinders, horsepower and other vehicle specifications.<br>
