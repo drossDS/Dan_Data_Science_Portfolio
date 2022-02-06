@@ -3,12 +3,14 @@
 <div align="center">
     <center><h1>About Me</h1></center>
 </div>
-Hello!  I'm a mechanical engineer with over 11 years of experience aspiring to become a data scientist.  Just last year, I completed the MIT Applied Data Science Program (MIT ADSP) and have since decided to pursue this field for my next career move.  Below are the projects from my course and the first of what I hope will be many more self-directed projects in areas of specific interest.  More to come soon!<br><br>
+Hello!  I'm a mechanical engineer with over 11 years of experience aspiring to become a data scientist.  Just last year, I completed the MIT Applied Data Science Program (MIT ADSP) and have since decided to pursue this field for my next career move.  Below are the projects from my course and the first of what I hope will be many more self-directed projects in areas of specific interest.  More to come soon!<br>
 
 <div align="center">
     <center> 978-417-1001 | <a href = "mailto: drossetti12@gmail.com">drossetti12@gmail.com</a> | <a href = "https://www.linkedin.com/in/daniel-r-10882139/">LinkedIn</a> | <a href = "https://www.credential.net/0655323a-4a50-49d6-9dfc-a81e5e4b7ca8#gs.o5fack">MIT ADSP Certificate</a> | <a href = "https://eportfolio.greatlearning.in/daniel-rossetti">MIT ADSP ePortfolio</a></center>
 </div>
-    
+
+<br>
+
 <div align="center">
     <center><h1>Project Portfolio Contents</h1></center>
 </div>
