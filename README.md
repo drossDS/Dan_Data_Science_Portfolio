@@ -1,6 +1,5 @@
 <!-- keep this here -->
 
----
 <!--
 <div align="center">
     <center><h3>Contact Information</h3></center>
