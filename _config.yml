@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title:  Data Science Project Portfolio
-description: <a href = "mailto: drossetti12@gmail.com">drossetti12@gmail.com</a>
+description: Personal Portfolio - Daniel David Rossetti
+github:
+  is_project_page: false
