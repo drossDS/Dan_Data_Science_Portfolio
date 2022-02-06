@@ -39,11 +39,11 @@ h1{
 ---
 
 <div align="center">
-    <center><h1>Predicting Carbon Emissions</h1></center>
+    <center><h1>Forecasting Carbon Emissions - Capstone Project</h1></center>
 </div>
 
 <div align="center">
-    <center><b><i>Capstone Project - Timeseries Forecasting</i></b></center>
+    <center><b><i>Using Timeseries Regression Techniques to Predict Greenhouse Gas Emissions</i></b></center>
 </div>
 
 A timeseries regression model was created to forecast future carbon emissions using timeseries data for electric energy production emissions from natural gas in the US from 1973 to 2016.
@@ -77,10 +77,10 @@ A timeseries regression model was created to forecast future carbon emissions us
 </div>
 
 <div align="center">
-    <center><b><i>Self-Directed Project, Kaggle Competition:  "Titanic - Machine Learning from Disaster"</i></b></center>
+    <center><b><i>Implementing Classification Techniques to Predict Passenger Survival</i></b></center>
 </div>
 
-A classification model was developed to determine the outcome (survival or death) of passengers on the Titanic based on personal information such as the passenger gender, age, class, and other categorical and numerical variables.  Datasets were provided by Kaggle and included a training dataset with passenger outcomes model fitting and a test dataset on which to run the model and submit the results for the competition.<br>
+For the Kaggle competition, "Titanic - Machine Learning from Disaster," a classification model was developed to determine the outcome (survival or death) of passengers on the Titanic based on personal information such as the passenger gender, age, class, and other categorical and numerical variables.  Datasets were provided by Kaggle and included a training dataset with passenger outcomes model fitting and a test dataset on which to run the model and submit the results for the competition.<br>
 ### Major Accomplishments:
 - Performed exploratory data analysis (EDA) on passenger data to find trends and inform feature engineering<br><br>
 
@@ -104,11 +104,11 @@ A classification model was developed to determine the outcome (survival or death
 ---
 
 <div align="center">
-    <center><h1>Image Recognition</h1></center>
+    <center><h1>House Number Image Recognition</h1></center>
 </div>
 
 <div align="center">
-    <center><b><i>Neural Networks Project</i></b></center>
+    <center><b><i>Employing Neural Networks to Recognize Digits</i></b></center>
 </div>
 
 Artificial Neural Network (ANN) and Convolutional Neural Network (CNN) models were implemented to recognize numbers in a sample of 60,000 greyscale images derived from the Street View Housing Number (SVHN) dataset which contains images of numbers zero through nine.  Each neural network model was modified to improve prediction accuracy, and confusion matrices were created to assess the performance of the improved models.  A sample of the images is shown below.  The original SVHN source and citation are provided at the end of this project section.
@@ -135,11 +135,11 @@ Citation:  Yuval Netzer, Tao Wang, Adam Coates, Alessandro Bissacco, Bo Wu, Andr
 ---
 
 <div align="center">
-    <center><h1>Boston Home Prices</h1></center>
+    <center><h1>Predicting Boston Home Prices</h1></center>
 </div>
 
 <div align="center">
-    <center><b><i>Linear Regression Anaysis</i></b></center>
+    <center><b><i>Using Linear Regression Methods to Predict House Prices in Boston, MA</i></b></center>
 </div>
 
 A linear regression model was created to predict median home values in Boston-area suburbs and towns based on a variety of variables including the geographic and socioeconomic characteristics of the home locations.  Housing data were provided and analysis was performed to determine the most important factors affecting values.  An equation was developed from the coefficients produced by the model capable of estimating home prices.
@@ -169,7 +169,7 @@ A linear regression model was created to predict median home values in Boston-ar
 </div>
 
 <div align="center">
-    <center><b><i>Unsupervised Learning</i></b></center>
+    <center><b><i>Employinh Unsupervised Learning Techniques to Group Automobiles</i></b></center>
 </div>
 
 A clustering model was built to group and identify similarities among automobile models sold between 1970 and 1982.  The provided vehicle data included a variety of characteristics including gas mileage, engine cylinders, horsepower and other vehicle specifications.<br>
