@@ -17,9 +17,7 @@
 </div>
 Hello!  I'm a mechanical engineer with over 11 years of experience aspiring to become a data scientist.  Just last year, I completed the MIT Applied Data Science Program (MIT ADSP) and have since decided to pursue this field for my next career move.  Below are the projects from my course and the first of what I hope will be many more self-directed projects in areas of specific interest.  More to come soon!<br>
 
-
-
-<br>
+---
 
 <div align="center">
     <center><h1>Project Portfolio Contents</h1></center>
