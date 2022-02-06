@@ -169,7 +169,7 @@ A linear regression model was created to predict median home values in Boston-ar
 </div>
 
 <div align="center">
-    <center><b><i>Employinh Unsupervised Learning Techniques to Group Automobiles</i></b></center>
+    <center><b><i>Employing Unsupervised Learning Techniques to Group Automobiles</i></b></center>
 </div>
 
 A clustering model was built to group and identify similarities among automobile models sold between 1970 and 1982.  The provided vehicle data included a variety of characteristics including gas mileage, engine cylinders, horsepower and other vehicle specifications.<br>
