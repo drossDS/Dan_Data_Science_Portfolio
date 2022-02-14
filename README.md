@@ -113,7 +113,7 @@ For the Kaggle competition, "Titanic - Machine Learning from Disaster," a classi
 
 In this relatively short project, a recommendation system was created comparing the performance of three models which were all tasked with making Amazon product recommendations.  Data from 1,540 users rating a total of 48,190 products were used to build and train the models.
 
-![](Images/Recommendation_Sys/Ratings_by_percentage.png)
+![](Images/Recommendation_Sys/Ratings_by_percentage_white.png)
 ### Major Accomplishments:
 - A simple rank based filtering model was used recommend a specified number of top products with over a certain number of ratings that have the highest average ratings
 - A collaborative filtering model was built using cosine similarity to establish similarity between any given user and all other users.  Recommendations were then made most highly-rated products based from the most similar users
