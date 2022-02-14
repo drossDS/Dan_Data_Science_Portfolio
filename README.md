@@ -23,7 +23,7 @@ Hello!  I'm a mechanical engineer with over 11 years of experience aspiring to b
     <center><h1>Project Portfolio Contents</h1></center>
 </div>
 
-<b><i>Note:  Links to project repositories and code coming soon! - (starting week of February 14, 2022) </b></i>
+<b><i>Note:  Links to project repositories and code coming soon! - (starting week of February 14, 2022)</i></b>
 <br>
 <br>
 
