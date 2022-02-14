@@ -22,8 +22,11 @@ Hello!  I'm a mechanical engineer with over 11 years of experience aspiring to b
 <div align="center">
     <center><h1>Project Portfolio Contents</h1></center>
 </div>
-  
+***Note:  Links to project repositories and code coming soon! - (starting week of February 14, 2022) <br>
+<br>
+
 - Forecasting Carbon Emissions - Capstone Project
+- Recommending Amazon Products
 - Titanic Survival Model
 - House Number Image Recognition
 - Predicting Boston Home Prices
