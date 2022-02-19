@@ -198,7 +198,7 @@ A clustering model was built to group and identify similarities among automobile
 ---
 
 <div align="center">
-    <center><h1><a href = "https://github.com/drossDS/Recommending_Amazon_Products.git">Recommending Amazon Products</a></h1></center>    
+    <center><h1><a href = "https://github.com/drossDS/Recommending_Amazon_Products.git">Recommending Amazon Products (Link)</a></h1></center>    
 </div>
 
 <div align="center">
