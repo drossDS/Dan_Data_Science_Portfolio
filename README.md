@@ -27,11 +27,11 @@ Hello!  I'm a mechanical engineer with over 11 years of experience aspiring to b
 <br>
 
 - Forecasting Carbon Emissions - Capstone Project
-- Recommending Amazon Products
 - Titanic Survival Model
 - House Number Image Recognition
 - Predicting Boston Home Prices
 - Car Clustering
+- Recommending Amazon Products
 - Contact Information
 
 <!--
