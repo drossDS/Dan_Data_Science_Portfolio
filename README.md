@@ -43,7 +43,7 @@ h1{
 ---
 
 <div align="center">
-    <center><h1>Forecasting Carbon Emissions - Capstone Project</h1></center>
+    <center><h1><a href = "https://github.com/drossDS/Forecasting_Carbon_Emissions">Forecasting Carbon Emissions - Capstone Project (Link)</a></h1></center>
 </div>
 
 <div align="center">
