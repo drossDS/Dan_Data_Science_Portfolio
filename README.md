@@ -77,8 +77,11 @@ A timeseries regression model was created to forecast future carbon emissions us
 ---
 
 <div align="center">
-    <center><h1>Titanic Survival Model</h1></center>
+    <center><h1><a href = "https://github.com/drossDS/Project-Classification-Titanic_Machine_Learning/blob/main/README.md">Titanic Survival Model (Link)</a></h1></center>
 </div>
+
+
+
 
 <div align="center">
     <center><b><i>Implementing Classification Techniques to Predict Passenger Survival</i></b></center>
