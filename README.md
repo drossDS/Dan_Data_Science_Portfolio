@@ -236,11 +236,17 @@ In this relatively short project, a recommendation system was created comparing 
 This project is a work in progress, but builds a local SQL database from my personal YouTube watch history.
 
 ### Current status:
-- JSON data was exported from 
+- JSON data was exported from YouTube (via Google Takeout) and read into a SQL table
+- The data was cleaned using filters in SQL to remove adds and expired videos which don't represent the viewer content
+- Multiple tables were created as data filtering was performed
+- Some exploratory analysis was performed
 
-
-
-
+Next Steps:
+- Where sensible to do so, the data will be imported SQL into Python for more advanced analyses
+- Convert properly correlated universal timestamps to eastern standard and daylight times to determine when I watch videos most frequently
+- Create simple plots showing most watch videos and channels
+- If possible, acquire channel and video metadata to glean insights on my watch preferences
+    - At the very least this will confirm that I watch way too many cooking videos
 
 
 <!--                                      *********************************** Contact Info ************************************************* -->
