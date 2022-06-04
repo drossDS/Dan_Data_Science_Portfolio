@@ -15,7 +15,7 @@
 <div align="center">
     <center><h1>About Me</h1></center>
 </div>
-Hello!  I'm a mechanical engineer with over 11 years of experience aspiring to become a data scientist.  Just last year, I completed the MIT Applied Data Science Program (MIT ADSP) and have since decided to pursue this field for my next career move.  Below are the projects from my course and the first of what I hope will be many more self-directed projects in areas of specific interest.  More to come soon!<br>
+Hello!  I'm a mechanical engineer with 12 years of experience aspiring to become a data scientist.  Just last year, I completed the MIT Applied Data Science Program (MIT ADSP) and have since decided to pursue this field for my next career move.  Below are the projects from my course and the first of what I hope will be many more self-directed projects in areas of specific interest.  More to come soon!<br>
 
 ---
 
@@ -32,6 +32,7 @@ Hello!  I'm a mechanical engineer with over 11 years of experience aspiring to b
 - Predicting Boston Home Prices
 - Car Clustering
 - Recommending Amazon Products
+- YouTube Watch History Analysis - SQL Database Creation
 - Contact Information
 
 <!--
@@ -219,6 +220,25 @@ In this relatively short project, a recommendation system was created comparing 
 ### Key Outcomes:
 - All three models were capable of making product recommendations for a given user
 - A recent reexamination of the SVD model results determined that the model must be optimized if not fully overhauled in a subsequent iteration of this project to produce better recommendation results<br>
+
+
+<!--                                *********************************** SQL ************************************************* -->
+---
+
+<div align="center">
+    <center><h1>YouTube Watch History Analysis - SQL Database Creation</h1></center>    
+</div>
+
+<div align="center">
+    <center><b><i>Learning SQL by Acquiring and Cleaning Real Data</i></b></center>
+</div>
+
+This project is a work in progress, but builds a local SQL database from my personal YouTube watch history.
+
+### Current status:
+- JSON data was exported from 
+
+
 
 
 
