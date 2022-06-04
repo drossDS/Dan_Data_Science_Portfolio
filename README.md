@@ -244,7 +244,7 @@ This project is a work in progress, but builds a local SQL database from my pers
 Next Steps:
 - Where sensible to do so, the data will be imported SQL into Python for more advanced analyses
 - Convert properly correlated universal timestamps to eastern standard and daylight times to determine when I watch videos most frequently
-- Create simple plots showing most watch videos and channels
+- Create simple plots showing most watched videos and channels
 - If possible, acquire channel and video metadata to glean insights on my watch preferences
     - At the very least this will confirm that I watch way too many cooking videos
 
