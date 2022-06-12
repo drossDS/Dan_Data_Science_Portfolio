@@ -48,10 +48,10 @@ h1{
 </div>
 
 <div align="center">
-    <center><b><i>Using Timeseries Regression Techniques to Predict Greenhouse Gas Emissions</i></b></center>
+    <center><b><i>Using Time Series Regression Techniques to Predict Greenhouse Gas Emissions</i></b></center>
 </div>
 
-A timeseries regression model was created to forecast future carbon emissions using timeseries data for electric energy production emissions from natural gas in the US from 1973 to 2016.
+A time series regression model was created to forecast future carbon emissions using time series data for electric energy production emissions from natural gas in the US from 1973 to 2016.
 
 ![](Images/Regression_Emissions/Provided_NNEIEUS_Data.png)
 ### Major Accomplishments:
