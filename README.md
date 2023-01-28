@@ -206,6 +206,10 @@ A clustering model was built to group and identify similarities among automobile
 </div>
 
 <div align="center">
+    <center><h1>Recommending Amazon Products</h1></center>
+</div>
+
+<div align="center">
     <center><b><i>Using Recommendation System Techniques to Make Better Recommendations</i></b></center>
 </div>
 
