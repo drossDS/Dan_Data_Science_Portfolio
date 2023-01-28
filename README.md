@@ -113,7 +113,7 @@ For the Kaggle competition, "Titanic - Machine Learning from Disaster," a classi
 ---
 
 <div align="center">
-    <center><h1><a href = "https://github.com/drossDS/House_Number_Image_Recognition">House Number Image Recognition (Link)</a></h1></center>    
+    <center><h1>House Number Image Recognition</h1></center>    
 </div>
 
 <div align="center">
@@ -200,10 +200,6 @@ A clustering model was built to group and identify similarities among automobile
 
 <!--                                *********************************** 2.5 - RECOMMENDATION SYSTEMS ************************************************* -->
 ---
-
-<div align="center">
-    <center><h1><a href = "https://github.com/drossDS/Recommending_Amazon_Products.git">Recommending Amazon Products (Link)</a></h1></center>    
-</div>
 
 <div align="center">
     <center><h1>Recommending Amazon Products</h1></center>
