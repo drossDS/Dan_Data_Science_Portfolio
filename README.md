@@ -22,7 +22,7 @@ https://dev.to/steveblue/setup-a-redirect-on-github-pages-1ok7#:~:text=The%20red
 ---
 
 <div align="center">
-    <center><h1>About Me</h1></center>
+    <center><h1>YOU'RE BEING REDIRECTED - About Me</h1></center>
 </div>
 Hello!  I'm a mechanical engineer with 12 years of experience aspiring to become a data scientist.  Just last year, I completed the MIT Applied Data Science Program (MIT ADSP) and have since decided to pursue this field further.  Below are the projects from my course and the first of what I hope will be many more self-directed projects in areas of specific interest.  More to come soon!<br>
 
