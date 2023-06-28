@@ -7,7 +7,7 @@
 -->
 
 <head>
-<meta http-equiv="refresh" content="0; URL=https://drossds.github.io/">
+<meta http-equiv="refresh" content="3; URL=https://drossds.github.io/">
 </head>
 
 
